@@ -4,5 +4,6 @@ public class HelloGit {
     // test comment for SSH
     // line from user 1
     // another line from user 1
+    // Goood evining from user 1 (branch master)
   }
 }
