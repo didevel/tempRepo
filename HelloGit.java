@@ -3,5 +3,6 @@ public class HelloGit {
     System.out.println("it works!");
     // test comment for SSH
     // line from user 1
+    // another line from user 1
   }
 }
